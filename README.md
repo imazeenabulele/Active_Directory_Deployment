@@ -1,7 +1,5 @@
 # Active_Directory_Deployment
 
-# Active_Directory_Deployment
-
 <p align="center">
 <img src="https://i.imgur.com/dD3HdHo.jpeg" alt="Microsoft Active Directory Logo"/>
 </p>
