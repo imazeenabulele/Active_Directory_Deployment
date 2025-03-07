@@ -13,7 +13,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
@@ -24,10 +23,14 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Install Active Directory services on DC-1
 - Create a Domain Admin user
-- Join Client-1 to the domain
-- Step 4
+- Join Client-1 VM to the domain
 
 <h2>Deployment and Configuration Steps</h2>
+
+<p>
+
+</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
