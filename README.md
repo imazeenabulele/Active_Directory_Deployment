@@ -41,7 +41,6 @@ Once logged in, navigate to the start tab and click on "Server Manager". Once th
 <p>
 Click on Next until the page below comes up. We need to add "Active Directory Domain Services" so click on it and "Add features". Click on "Next" until the Install page is reached. Install a=nd close afterwards
 </p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/YDaszj6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
