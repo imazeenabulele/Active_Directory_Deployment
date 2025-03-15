@@ -47,13 +47,14 @@ Click on Next until the page below comes up. We need to add "Active Directory Do
 
 <p>
 Now, we are going to promote DC-1 as an actual domain controller. This means it would be configured to become the domain controller. <br /> 
-Go back to the "Service Manager Dashboard" and navigate to a "flag" at the top right corner of the page and click "promote this server as a domain controller" </p> <br /> <br /> 
+Go back to the "Service Manager Dashboard" and navigate to a "flag" at the top right corner of the page and click "promote this server as a domain controller" </p>
 
 <p>
-<img src="https://i.imgur.com/99qYPR8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Csg1tWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+<p>
 Select "Add a new forest" > use "mydomain.com as Root domain name > input a password and confirm > uncheck "create DNS delegation > click "Next" until the Install page is reached and Install
 </p>
 
