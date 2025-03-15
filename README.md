@@ -53,6 +53,7 @@ Go back to the "Service Manager Dashboard" and navigate to a "flag" at the top r
 <img src="https://i.imgur.com/Csg1tWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+<br /> 
 
 <p>
 Select "Add a new forest" > use "mydomain.com as Root domain name > input a password and confirm > uncheck "create DNS delegation > click "Next" until the Install page is reached and Install
@@ -62,6 +63,7 @@ Select "Add a new forest" > use "mydomain.com as Root domain name > input a pass
 <img src="https://i.imgur.com/99qYPR8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+<br /> 
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -70,14 +72,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 <img src="https://i.imgur.com/Csg1tWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br /> 
+<br /> 
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/Csg1tWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br /> <br /> 
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
