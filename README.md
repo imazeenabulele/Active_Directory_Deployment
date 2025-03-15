@@ -44,6 +44,7 @@ Click on Next until the page below comes up. We need to add "Active Directory Do
 <p>
 <img src="https://i.imgur.com/YDaszj6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br /> 
 
 <p>
 Now, we are going to promote DC-1 as an actual domain controller. This means it would be configured to become the domain controller. <br /> 
@@ -53,24 +54,24 @@ Go back to the "Service Manager Dashboard" and navigate to a "flag" at the top r
 <img src="https://i.imgur.com/Csg1tWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-<br /> 
 
 <p>
-Select "Add a new forest" > use "mydomain.com as Root domain name > input a password and confirm > uncheck "create DNS delegation > click "Next" until the Install page is reached and Install
+Select "Add a new forest" > use "mydomain.com as Root domain name > input a password and confirm > uncheck "create DNS delegation > click "Next" until the Install page is reached and Install.
+Once installation is complete, DC-1 would restart itself and require you to re-login 
 </p>
 
 <p>
 <img src="https://i.imgur.com/99qYPR8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-<br /> 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that DC-1 is a domain controller, in order to login into it, we have to specify the context to which we want to log into it as. 
+This means every user in the domain that needs to login into DC-1 would need to specify the domain name(context) and the user's name. In this case "mydomain.com" is the domain and "labuser" is the user's name. See image below
 </p>
 
 <p>
-<img src="https://i.imgur.com/Csg1tWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9K5lkVR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 <br /> 
