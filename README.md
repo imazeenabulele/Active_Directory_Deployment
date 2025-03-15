@@ -31,7 +31,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 To start this off, login to the DC-1 via remote desktop connection (this was shown in the previous section). <br /> 
 Once logged in, navigate to the start tab and click on "Server Manager". Once the dialog box opens up, click on "ADD ROLES AND FEATURES" as seen below
 </p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/LFjPhpU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -39,7 +38,7 @@ Once logged in, navigate to the start tab and click on "Server Manager". Once th
 <br />
 
 <p>
-Click on Next until the page below comes up. We need to add "Active Directory Domain Services" so click on it and "Add features". Click on "Next" until the Install page is reached. Install a=nd close afterwards
+Click on Next until the page below comes up. We need to add "Active Directory Domain Services" so click on it and "Add features". Click on "Next" until the Install page is reached. Install and close afterwards
 </p>
 
 <p>
@@ -48,7 +47,42 @@ Click on Next until the page below comes up. We need to add "Active Directory Do
 
 <p>
 Now, we are going to promote DC-1 as an actual domain controller. This means it would be configured to become the domain controller. <br /> 
-Go back to the "Service Manager Dashboard" and navigate to a "flag" at the top right corner of the page. Click and follow the prompts
+Go back to the "Service Manager Dashboard" and navigate to a "flag" at the top right corner of the page and click "promote this server as a domain controller" <br /> <br /> 
+Select "Add a new forest" > use "mydomain.com as Root domain name > input a password and confirm > uncheck "create DNS delegation > click "Next" until the Install page is reached and Install
+
+  
+</p>
+
+<p>
+<img src="https://i.imgur.com/99qYPR8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+
+<p>
+<img src="https://i.imgur.com/Csg1tWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Csg1tWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Csg1tWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
