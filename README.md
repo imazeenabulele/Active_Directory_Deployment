@@ -66,8 +66,8 @@ Once installation is complete, DC-1 would restart itself and require you to re-l
 <br />
 
 <p>
-Now that DC-1 is a domain controller, in order to login into it, we have to specify the context to which we want to log into it as. 
-This means every user in the domain that needs to login into DC-1 would need to specify the domain name(context) and the user's name. In this case "mydomain.com" is the domain and "labuser" is the user's name. See image below
+Now that DC-1 is a domain controller, in order to login to it, we have to specify the context to which we want to log into it as. 
+This means every user in the domain that needs to login to DC-1 would need to specify the domain name(context) and the user's name. In this case "mydomain.com" is the domain and "labuser" is the user's name. See image below
 </p>
 
 <p>
@@ -81,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 <p>
-<img src="https://i.imgur.com/Csg1tWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YI9yZcl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> <br /> 
 
