@@ -116,11 +116,11 @@ A new employee will be created named "Jane Doe" and her password login enabled. 
 
 <p>
 Jane's account is not an admin yet even though we put it in the admin folder. What makes the account an administrator over the domain is actually adding the account to the built-in domain admins security group <br />
-
+To add the account, right click on "Jane Doe" > "Properties" > "Member of" > "Add" > type in domain admins as seen in image below and click "Check Names". Once it finds it, click Apply and Ok. Now the account is an actual DOmain Admin so creating users and performing other tasks can be carried out 
 </p>
 
 <p>
-<img src="https://i.imgur.com/wNFidsS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dbQ1EXC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> <br /> 
 
