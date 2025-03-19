@@ -77,7 +77,7 @@ This means every user in the domain that needs to login to DC-1 would need to sp
 <br /> 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once logged in, navigate to "Start" > "Windows Administrative tools" > "Active Directory Users and Computers"
 </p>
 
 <p>
@@ -86,13 +86,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br /> <br /> 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We will go on to create an "Organizational Unit (OU) called "_EMPLOYEES". <br />
+An Organizational Unit (OU) in Active Directory (AD) is a container used to group users, computers, groups, and other OUs within a domain. It helps administrators organize and manage resources efficiently by applying Group Policies and delegating administrative control<br />
+Right-click on "mydomain.com" > Select "New"  > "Organizational Unit" > type in the name as seen below
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/Csg1tWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UNTnnO0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br /> <br /> 
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
