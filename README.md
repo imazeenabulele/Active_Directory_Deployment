@@ -125,11 +125,11 @@ To add the account, right click on "Jane Doe" > "Properties" > "Member of" > "Ad
 <br /> <br /> 
 
 <p>
-Ah
+Now, we'll log out of labuser account and login as the new domain admin which is Jane doe
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6yy48RJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> <br /> 
 
