@@ -88,7 +88,7 @@ Once logged in, navigate to "Start" > "Windows Administrative tools" > "Active D
 <p>
 We will go on to create an "Organizational Unit (OU) called "_EMPLOYEES".
 An Organizational Unit (OU) in Active Directory (AD) is a container used to group users, computers, groups, and other OUs within a domain. It helps administrators organize and manage resources efficiently by applying Group Policies and delegating administrative control<br /><br />
-Right-click on "mydomain.com" > Select "New"  > "Organizational Unit" > type in the name as seen below
+Once in the Active Directory Users and Computers page, right-click on "mydomain.com" > Select "New"  > "Organizational Unit" > type in the name as seen below
 </p>
 
 <p>
