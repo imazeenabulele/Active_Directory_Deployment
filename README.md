@@ -86,11 +86,10 @@ Once logged in, navigate to "Start" > "Windows Administrative tools" > "Active D
 <br /> <br /> 
 
 <p>
-We will go on to create an "Organizational Unit (OU) called "_EMPLOYEES". <br />
-An Organizational Unit (OU) in Active Directory (AD) is a container used to group users, computers, groups, and other OUs within a domain. It helps administrators organize and manage resources efficiently by applying Group Policies and delegating administrative control<br />
+We will go on to create an "Organizational Unit (OU) called "_EMPLOYEES".
+An Organizational Unit (OU) in Active Directory (AD) is a container used to group users, computers, groups, and other OUs within a domain. It helps administrators organize and manage resources efficiently by applying Group Policies and delegating administrative control<br /><br />
 Right-click on "mydomain.com" > Select "New"  > "Organizational Unit" > type in the name as seen below
 </p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/UNTnnO0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -98,14 +97,76 @@ Right-click on "mydomain.com" > Select "New"  > "Organizational Unit" > type in 
 <br /> <br /> 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Another organizational unit called "_ADMIN" is created
 </p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/TwM2hKT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br /> <br /> 
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A new employee will be created named "Jane Doe" and her password login enabled. To create a user, right-click on _ADMIN > "New" > "User"
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/vcsXj8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /> <br /> 
+
+<p>
+Jane's account is not admin yet even though we put it in the admin folder. What makes the account an administrator over the domain is actually adding the account to the built-in domain admins security group
+</p>
+
+<p>
+<img src="https://i.imgur.com/wNFidsS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /> <br /> 
+
+<p>
+Ah
+</p>
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /> <br /> 
+
+<p>
+Aaab
+</p>
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /> <br /> 
+
+<p>
+A 
+</p>
+
+<p>
+<img src="https://i.imgur.com/vcsXj8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /> <br /> 
+
+<p>
+Ah
+</p>
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /> <br /> 
+
+<p>
+Aaab
+</p>
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /> <br /> 
+
+
