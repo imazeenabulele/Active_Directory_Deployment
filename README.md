@@ -97,7 +97,7 @@ Once in the Active Directory Users and Computers page, right-click on "mydomain.
 <br /> <br /> 
 
 <p>
-Another organizational unit called "_ADMIN" is created
+Add another organizational unit called "_ADMINS"
 </p>
 
 <p>
@@ -106,9 +106,8 @@ Another organizational unit called "_ADMIN" is created
 <br /> <br /> 
 
 <p>
-A new employee will be created named "Jane Doe" and her password login enabled. To create a user, right-click on _ADMIN > "New" > "User"
+A new employee will be created named "Jane Doe" and her password login enabled. To create a user, right-click on _ADMINS > "New" > "User"
 </p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/vcsXj8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -116,7 +115,8 @@ A new employee will be created named "Jane Doe" and her password login enabled. 
 <br /> <br /> 
 
 <p>
-Jane's account is not admin yet even though we put it in the admin folder. What makes the account an administrator over the domain is actually adding the account to the built-in domain admins security group
+Jane's account is not an admin yet even though we put it in the admin folder. What makes the account an administrator over the domain is actually adding the account to the built-in domain admins security group <br />
+
 </p>
 
 <p>
