@@ -134,7 +134,7 @@ Now, we'll log out of labuser account and login as the new domain admin which is
 <br /> <br /> 
 
 <p>
-Next, we'll log into client-1 as t he original local admin (labuser) and join it to the domain. To do this, get the ipaddress for client-1 and set up a remote desktop connection into client-1 VM <br />
+Next, we'll log into client-1 as t he original local admin (labuser) and join it to the domain. To do this, get the ip address for client-1 and set up a remote desktop connection into client-1 VM <br /><br /> 
 Once login is successful, navigate to the start menu and right click > slect "system" > "rename this PC (advanced) > click "change" > select "Domain" and type "domain.com". Click Ok
 </p>
 
@@ -144,8 +144,8 @@ Once login is successful, navigate to the start menu and right click > slect "sy
 <br /> <br /> 
 
 <p>
-In the previous section, we set client-1's DNS settings to use DC-1's private ip address. By doing this, the domain controller (current DNS server) can be located which is in the "mydomain.com" domain <br /> 
-Here we'll use the jane_admin details to login because the accont is a domain admin and has permissions to join the domain. Once this is done, client-1 would retart 
+In the previous section, we set client-1's DNS settings to use DC-1's private ip address. By doing this, the domain controller (current DNS server) can be located which is in the "mydomain.com" domain <br /><br />  
+Here we'll use the jane_admin details to login because the account is a domain admin and has permissions to join the domain. Once this is done, client-1 would retart 
 </p>
 
 <p>
@@ -154,7 +154,7 @@ Here we'll use the jane_admin details to login because the accont is a domain ad
 <br /> <br /> 
 
 <p>
-Log into the domain controller (DC-1) via remote desktop conncection and verify that client-1 shows up in Active Directory Users and Computers (ADUC). Navigate to the ADCU as before, expand mydomain.com drop down > click on "computers" and we can see client-1 present
+Log into the domain controller (DC-1) via remote desktop conncection and verify that client-1 shows up in Active Directory Users and Computers (ADUC). Navigate to the ADCU as before, expand mydomain.com drop down > click on "Computers" and we can see client-1 present
 </p>
 
 <p>
