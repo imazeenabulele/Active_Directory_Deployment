@@ -134,11 +134,12 @@ Now, we'll log out of labuser account and login as the new domain admin which is
 <br /> <br /> 
 
 <p>
-Aaab
+Next, we'll log into client-1 as t he original local admin (labuser) and join it to the domain. To do this, get the ipaddress for client-1 and set up a remote desktop connection into client-1 VM <br />
+Once login is successful, navigate to the start menu and right click > slect "system" > "rename this PC (advanced) > click "change" > select "Domain" and type "domain.com". Click Ok
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pnQCWV3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> <br /> 
 
