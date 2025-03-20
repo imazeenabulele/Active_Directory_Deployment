@@ -148,12 +148,13 @@ A
 </p>
 
 <p>
-<img src="https://i.imgur.com/vcsXj8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fVKeWlg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> <br /> 
 
 <p>
-Ah
+In the previous section, we set client-1's DNS settings to use DC-1's private ip address. By doing this, the domain controller (current DNS server) can be located which is in the "mydomain.com" domain <br /> 
+Here we'll use the jane_admin details to login because the accont is a domain admin and has permissions to join the domain. Once this is done, client-1 would retart 
 </p>
 
 <p>
@@ -162,11 +163,11 @@ Ah
 <br /> <br /> 
 
 <p>
-Aaab
+Log into the domain controller (DC-1) via remote desktop conncection and verify that client-1 shows up in Active Directory Users and Computers (ADUC). Navigate to the ADCU as before, expand mydomain.com drop down > click on "computers" and we can see client-1 present
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/p1Qv5jP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> <br /> 
 
