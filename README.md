@@ -144,21 +144,12 @@ Once login is successful, navigate to the start menu and right click > slect "sy
 <br /> <br /> 
 
 <p>
-A 
-</p>
-
-<p>
-<img src="https://i.imgur.com/fVKeWlg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br /> <br /> 
-
-<p>
 In the previous section, we set client-1's DNS settings to use DC-1's private ip address. By doing this, the domain controller (current DNS server) can be located which is in the "mydomain.com" domain <br /> 
 Here we'll use the jane_admin details to login because the accont is a domain admin and has permissions to join the domain. Once this is done, client-1 would retart 
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fVKeWlg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> <br /> 
 
